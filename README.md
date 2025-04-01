@@ -2,7 +2,7 @@
 
 ## inicio de proyecto
 
-<p> se instalo laravel 11 con forify </p>
+<p> se instalo laravel 11 con fortify </p>
 
 <p> se configuro Mailhog ver .env </p>
 
