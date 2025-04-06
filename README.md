@@ -18,3 +18,10 @@
 ## renombrar master to main en github
 <p>git branch -m master main</p>
 
+## base de datos 
+   <p>   
+      DATABASE=db_rh_management
+      USERNAME=user_rh_management
+      PASSWORD=4Es8v8y1NEQ1geQ4JoDo1u18K6DA7A 
+    </p>
+
